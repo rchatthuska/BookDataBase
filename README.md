@@ -18,16 +18,7 @@
 ### Main Form Interface
 ![Main Form][(img/screenshot1.png](https://github.com/rchatthuska/BookDataBase/blob/master/Screenshot%202024-12-17%20180745.png))
 
-### View All Records
-![View All Records](img/screenshot2.png)
 
-### Filter Bestselling Books
-![Filter Bestselling Books](img/screenshot3.png)
-
-### Delete a Record
-![Delete a Record](img/screenshot4.png)
-
----
 
 ---
 
