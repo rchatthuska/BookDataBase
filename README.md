@@ -16,7 +16,7 @@
 ---
 
 ## 📂 Project Structure
-FinalProjectBase/src/main/java/com/example/finalprojectbase
+FinalProjectBase/src/main/java/com/example/finalprojectbase/BookDatabase.java
 ---
 
 ## 🛠️ Technologies Used
