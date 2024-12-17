@@ -16,9 +16,7 @@
 ---
 
 ## 📂 Project Structure
-BookDatabase/ │-- src/ │ └── main/ │ └── resources/ │ └── com/ │ └── example/ │ └── finalprojectbase/ │ └── BookDatabase.java # Main program file │ └── Book.java # Book class model │ │-- README.md # Project documentation └── BookDatabase # Apache Derby database folder (auto-created)
-
-
+FinalProjectBase/src/main/java/com/example/finalprojectbase
 ---
 
 ## 🛠️ Technologies Used
