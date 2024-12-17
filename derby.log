@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Mon Dec 16 19:06:19 EST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217): instance a816c00e-0193-d1ef-e2aa-000006e77db0 
+on database directory C:\Users\rchat\OneDrive\Desktop\FinalProjectBase\BookDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1e80bfe8 
+Loaded from file:/C:/Users/rchat/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\rchat\OneDrive\Desktop\FinalProjectBase
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon Dec 16 19:06:45 EST 2024: Shutting down Derby engine
+----------------------------------------------------------------
+Mon Dec 16 19:06:45 EST 2024:
+Shutting down instance a816c00e-0193-d1ef-e2aa-000006e77db0 on database directory C:\Users\rchat\OneDrive\Desktop\FinalProjectBase\BookDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1e80bfe8 
+----------------------------------------------------------------

@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Dec 15 12:00:45 EST 2024D001 : [0] The Apache Software Foundation - Apache Derby - 10.17.1.0 - (1913217), [1] a816c00e-0193-cb43-e75f-00000775ec80, [2] C:\Users\rchat\OneDrive\Desktop\FinalProjectBase\FinalProjectBase\CatDatabase, [3] jdk.internal.loader.ClassLoaders$AppClassLoader@506e1b77, [4] file:/C:/Users/rchat/.m2/repository/org/apache/derby/derby/10.17.1.0/derby-10.17.1.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=22.0.1+8-16
+user.dir=C:\Users\rchat\OneDrive\Desktop\FinalProjectBase\FinalProjectBase
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+C005 : [0] 
